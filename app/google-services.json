@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "630212751441",
+    "project_id": "chatapp-93e86",
+    "storage_bucket": "chatapp-93e86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630212751441:android:fe88e14771346f51e90870",
+        "android_client_info": {
+          "package_name": "com.vishu.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3eZc2G9Hq1speDLR8YrtqHjsP7shJwB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630212751441:android:1ba9c1e425090904e90870",
+        "android_client_info": {
+          "package_name": "com.vishu.chatapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3eZc2G9Hq1speDLR8YrtqHjsP7shJwB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
